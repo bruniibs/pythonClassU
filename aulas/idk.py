@@ -1,0 +1,1 @@
+print('par ou impar')
